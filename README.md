@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá, eu sou o Matheus Henrique</h1>
 <p align="center">
-  <b>Desenvolvedor em formação | 17 anos | Focado em Back-End & Segurança</b>
+  <b>Desenvolvedor em formação | 18 anos | Focado em Back-End & Segurança</b>
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
-🎓 Estudante de tecnologia, cursando o ensino médio (manhã e noite).  
+🎓 Estudante de tecnologia, cursando o eng de softwere (manhã e noite).  
 💻 Experiência prática em **Java, Spring Boot, APIs REST e Bancos de Dados**.  
 🔐 Apaixonado por **segurança da informação** e arquitetura de sistemas.  
 🚀 Busco oportunidades para aplicar e evoluir minhas habilidades em projetos reais.  
