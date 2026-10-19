@@ -6,9 +6,9 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-🎓 Estudante de tecnologia, cursando 2º semestre de eng. de software na Uniceplac.
+🎓 Estudante de Tecnologia, cursando 2º semestre de Eng. de Software na Uniceplac.
 
-👨🏻‍💻 Tecnico em desenvolvimento de sistemas - Comcluido - Senac.
+👨🏻‍💻 Técnico em Desenvolvimento de Sistemas - Concluido - Senac.
 
 💻 Experiência prática em **Java, Spring Boot, APIs REST e Bancos de Dados**.
 
@@ -35,14 +35,15 @@
 
 ## 📚 Formação
 
-📌 **Cursando** – Técnico em Desenvolvimento de Sistemas  
+📌 **Cursando** – Engenharia de Software.
+📌 **Concluido** - Desenvolvimento de Sistemas.
 📌 **Estudo contínuo** em Java, Spring, Git e Segurança (Alura, Udemy, Senac)
 
 ---
 
 ## 🌍 Idiomas
 - 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Basico  
+- 🇺🇸 Inglês — Cursando  
 
 ---
 
