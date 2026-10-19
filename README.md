@@ -36,7 +36,9 @@
 ## 📚 Formação
 
 📌 **Cursando** – Engenharia de Software.
+
 📌 **Concluido** - Desenvolvimento de Sistemas.
+
 📌 **Estudo contínuo** em Java, Spring, Git e Segurança (Alura, Udemy, Senac)
 
 ---
