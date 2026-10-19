@@ -6,7 +6,8 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-🎓 Estudante de tecnologia, cursando o eng de softwere (manhã e noite).  
+🎓 Estudante de tecnologia, cursando 2º semestre de eng. de software na Uniceplac.
+👨🏻‍💻 Tecnico em desenvolvimento de sistemas - Comcluido - Senac.
 💻 Experiência prática em **Java, Spring Boot, APIs REST e Bancos de Dados**.  
 🔐 Apaixonado por **segurança da informação** e arquitetura de sistemas.  
 🚀 Busco oportunidades para aplicar e evoluir minhas habilidades em projetos reais.  
