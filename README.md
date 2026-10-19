@@ -29,7 +29,7 @@
 ## 📂 Portfólio
 
 📌 Você pode conferir meus principais projetos e estudos organizados no meu portfólio:  
-➡️ [Acessar meu Portfólio]( https://matheussss237.github.io/meu-portifolio/)  
+➡️ [Acessar meu Portfólio](https://matheussss237.github.io/Gsap/)  
 
 ---
 
