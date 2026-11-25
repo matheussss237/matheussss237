@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://matheussss237.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
+  <a href="https://matheussss237.github.io/Gsap/"><img src="https://img.shields.io/badge/Portfólio-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
   <a href="https://linkedin.com/in/matheushenriquem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:matheus.henrique.madeira1@gmail.com"><img src="https://img.shields.io/badge/E--mail-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://matheussss237.github.io/portfolio/assets/cv/Matheus-Henrique-CV.pdf"><img src="https://img.shields.io/badge/Currículo-1b1030?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo em PDF"></a>
+  <a href="https://matheussss237.github.io/Gsap/assets/cv/Matheus-Henrique-CV.pdf"><img src="https://img.shields.io/badge/Currículo-1b1030?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo em PDF"></a>
 </p>
 
 ---
@@ -64,9 +64,9 @@ Também trabalho com **Spring Security, JPA, JWT, BCrypt, JavaFX, GSAP, H2, Leaf
 | 🗳️ **Fato Real** | Rede social de informação cívica com busca de políticos, IA com referências e comunidades. Coordenação da equipe no Projeto Integrador do Senac. | Angular · TypeScript · Supabase |
 | 🍞 **[Padaria API (H2)](https://github.com/matheussss237/Padaria_java_H2)** | API REST de produtos, clientes e compras com Spring Security e senhas em BCrypt. | Java 17 · Spring Boot · H2 · Docker |
 | 🍃 **[Padaria API (MongoDB)](https://github.com/matheussss237/Padaria_java_mongoDB)** | A mesma API reescrita com banco NoSQL usando Spring Data MongoDB. | Java 17 · Spring Boot · MongoDB |
-| 🎨 **[Portfólio](https://github.com/matheussss237/portfolio)** | Site pessoal com animações de rolagem, tema claro/escuro e currículo em PDF. | HTML · CSS · JavaScript · GSAP |
+| 🎨 **[Portfólio](https://github.com/matheussss237/Gsap)** | Site pessoal com animações de rolagem, tema claro/escuro e currículo em PDF. | HTML · CSS · JavaScript · GSAP |
 
-➡️ Veja tudo com detalhes no meu **[portfólio](https://matheussss237.github.io/portfolio/)**.
+➡️ Veja tudo com detalhes no meu **[portfólio](https://matheussss237.github.io/Gsap/)**.
 
 ---
 
