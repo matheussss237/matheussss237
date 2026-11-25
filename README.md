@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://matheussss237.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfólio-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
-  <a href="https://linkedin.com/in/matheushenriquem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:matheus.henrique.madeira1@gmail.com"><img src="https://img.shields.io/badge/E--mail-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://matheussss237.github.io/Portfolio/assets/cv/Matheus-Henrique-CV.pdf"><img src="https://img.shields.io/badge/Currículo-1b1030?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo em PDF"></a>
+  <a href="https://matheussss237.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfólio-6E74F7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
+  <a href="https://linkedin.com/in/matheushenriquem"><img src="https://img.shields.io/badge/LinkedIn-020002?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:matheus.henrique.madeira1@gmail.com"><img src="https://img.shields.io/badge/E--mail-6E74F7?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://matheussss237.github.io/Portfolio/assets/cv/Matheus-Henrique-CV.pdf"><img src="https://img.shields.io/badge/Currículo-020002?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo em PDF"></a>
 </p>
 
 ---
@@ -82,4 +82,4 @@ Também trabalho com **Spring Security, JPA, JWT, BCrypt, JavaFX, GSAP, H2, Leaf
 
 ---
 
-<p align="center">Obrigado pela visita! Se quiser conversar sobre uma vaga ou projeto, me chama. 💜</p>
+<p align="center">Obrigado pela visita! Se quiser conversar sobre uma vaga ou projeto, me chama. 💙</p>
