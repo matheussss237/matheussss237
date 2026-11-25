@@ -1,60 +1,85 @@
-<h1 align="center">👋 Olá, eu sou o Matheus Henrique</h1>
+<h1 align="center">Olá, eu sou o Matheus Henrique 👋</h1>
+
 <p align="center">
-  <b>Desenvolvedor em formação | 18 anos | Focado em Back-End & Segurança</b>
+  <b>Desenvolvedor Back-End em formação · Java · Spring Boot · Node.js · Segurança da Informação</b>
+</p>
+
+<p align="center">
+  <a href="https://matheussss237.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
+  <a href="https://linkedin.com/in/matheushenriquem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:matheus.henrique.madeira1@gmail.com"><img src="https://img.shields.io/badge/E--mail-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://matheussss237.github.io/portfolio/assets/cv/Matheus-Henrique-CV.pdf"><img src="https://img.shields.io/badge/Currículo-1b1030?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo em PDF"></a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
-🎓 Estudante de Tecnologia, cursando 2º semestre de Eng. de Software na Uniceplac.
+## Sobre mim
 
-👨🏻‍💻 Técnico em Desenvolvimento de Sistemas - Concluido - Senac.
-
-💻 Experiência prática em **Java, Spring Boot, APIs REST e Bancos de Dados**.
-
-🔐 Apaixonado por **segurança da informação** e arquitetura de sistemas.  
-
-🚀 Busco oportunidades para aplicar e evoluir minhas habilidades em projetos reais.  
-
----
-
-## 🛠️ Habilidades
-
-| **Back-End** | **APIs & Autenticação** | **Bancos de Dados** | **Front-End** | **Ferramentas & Outros** |
-|--------------|--------------------------|----------------------|----------------|---------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/> Spring Boot / Security / JPA | <img src="https://cdn-icons-png.flaticon.com/512/5986/5986230.png" width="30"/> REST <br> <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="30"/> JWT | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL <br> <img src="https://img.icons8.com/color/48/h2.png" width="30"/> H2 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub <br> <img src="https://cdn-icons-png.flaticon.com/512/732/732252.png" width="30"/> Postman <br> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-render-computer-graphics-development-tool-logo-shadow-tal-revivo.png" width="30"/> Render |
+- 🎓 Estudante do **3º semestre de Engenharia de Software** na UniCEPLAC
+- 📜 **Técnico em Desenvolvimento de Sistemas** pelo Senac-DF (concluído em 2026)
+- 💻 Experiência prática em projetos com **Java, Spring Boot, Node.js, APIs REST e bancos SQL e NoSQL**
+- 🤝 Coordenei uma equipe de 9 pessoas no Projeto Integrador do Senac
+- 🔐 Interesse especial em **segurança da informação** e arquitetura de sistemas
+- 🚀 **Buscando estágio ou primeira oportunidade como desenvolvedor**
+- 📍 Gama, Distrito Federal · 18 anos
 
 ---
 
-## 📂 Portfólio
+## Tecnologias
 
-📌 Você pode conferir meus principais projetos e estudos organizados no meu portfólio:  
-➡️ [Acessar meu Portfólio](https://matheussss237.github.io/Gsap/)  
+**Back-End**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Java, Spring, Node.js, Express">
+</p>
+
+**Bancos de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Supabase">
+</p>
+
+**Front-End**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Angular">
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,idea,vscode&theme=dark" alt="Git, GitHub, Docker, Maven, Postman, IntelliJ, VS Code">
+</p>
+
+Também trabalho com **Spring Security, JPA, JWT, BCrypt, JavaFX, GSAP, H2, Leaflet** e integração com IA (**API Groq e RAG**).
 
 ---
 
-## 📚 Formação
+## Projetos em destaque
 
-📌 **Cursando** – Engenharia de Software.
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🏙️ **[Brasília Participa](https://github.com/matheussss237/Brasilia-Participa)** | Portal de participação cidadã para registrar e acompanhar problemas urbanos no DF, com mapa interativo e dashboard. Projeto Integrador da UniCEPLAC. | Node.js · Express · MongoDB Atlas · JavaScript · Leaflet |
+| 🤖 **[Lumi](https://github.com/matheussss237/lumi)** | Assistente de IA desktop com login, conversas por usuário e RAG que mostra as fontes de cada resposta. | Java 21 · JavaFX · Spring Boot · MongoDB Atlas · Groq |
+| 🗳️ **Fato Real** | Rede social de informação cívica com busca de políticos, IA com referências e comunidades. Coordenação da equipe no Projeto Integrador do Senac. | Angular · TypeScript · Supabase |
+| 🍞 **[Padaria API (H2)](https://github.com/matheussss237/Padaria_java_H2)** | API REST de produtos, clientes e compras com Spring Security e senhas em BCrypt. | Java 17 · Spring Boot · H2 · Docker |
+| 🍃 **[Padaria API (MongoDB)](https://github.com/matheussss237/Padaria_java_mongoDB)** | A mesma API reescrita com banco NoSQL usando Spring Data MongoDB. | Java 17 · Spring Boot · MongoDB |
+| 🎨 **[Portfólio](https://github.com/matheussss237/portfolio)** | Site pessoal com animações de rolagem, tema claro/escuro e currículo em PDF. | HTML · CSS · JavaScript · GSAP |
 
-📌 **Concluido** - Desenvolvimento de Sistemas.
-
-📌 **Estudo contínuo** em Java, Spring, Git e Segurança (Alura, Udemy, Senac)
-
----
-
-## 🌍 Idiomas
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Cursando  
-
----
-
-## 📬 Contato
-✉️ Email: **matheus.henrique.madeira1@gmail.com**    
-💼 LinkedIn: [linkedin.com/in/matheushenriquem](https://linkedin.com/in/matheushenriquem)  
+➡️ Veja tudo com detalhes no meu **[portfólio](https://matheussss237.github.io/portfolio/)**.
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+## Formação
 
+| Curso | Instituição | Situação |
+|---|---|---|
+| Engenharia de Software | UniCEPLAC | Cursando · 3º semestre |
+| Técnico em Desenvolvimento de Sistemas | Senac-DF | Concluído · 2026 |
+| Estudos complementares em Java, Spring, Git e Segurança | Alura · Udemy · Senac | Contínuo |
 
+**Idiomas:** Português (nativo) · Inglês (básico)
+
+---
+
+<p align="center">Obrigado pela visita! Se quiser conversar sobre uma vaga ou projeto, me chama. 💜</p>
